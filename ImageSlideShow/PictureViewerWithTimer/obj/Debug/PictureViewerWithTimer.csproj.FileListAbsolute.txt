@@ -1,0 +1,20 @@
+C:\Users\Student\Desktop\Lab_05\PictureViewerWithTimer\bin\Debug\PictureViewerWithTimer.exe.config
+C:\Users\Student\Desktop\Lab_05\PictureViewerWithTimer\bin\Debug\PictureViewerWithTimer.exe
+C:\Users\Student\Desktop\Lab_05\PictureViewerWithTimer\bin\Debug\PictureViewerWithTimer.pdb
+C:\Users\Student\Desktop\Lab_05\PictureViewerWithTimer\obj\Debug\PictureViewerWithTimer.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Lab_05\PictureViewerWithTimer\obj\Debug\PictureViewerWithTimer.Form1.resources
+C:\Users\Student\Desktop\Lab_05\PictureViewerWithTimer\obj\Debug\PictureViewerWithTimer.Properties.Resources.resources
+C:\Users\Student\Desktop\Lab_05\PictureViewerWithTimer\obj\Debug\PictureViewerWithTimer.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Lab_05\PictureViewerWithTimer\obj\Debug\PictureViewerWithTimer.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Lab_05\PictureViewerWithTimer\obj\Debug\PictureViewerWithTimer.exe
+C:\Users\Student\Desktop\Lab_05\PictureViewerWithTimer\obj\Debug\PictureViewerWithTimer.pdb
+F:\5th Semester\Visual Programming\Labs\Lab_05\PictureViewerWithTimer\obj\Debug\PictureViewerWithTimer.csprojAssemblyReference.cache
+F:\5th Semester\Visual Programming\Labs\Lab_05\PictureViewerWithTimer\obj\Debug\PictureViewerWithTimer.Form1.resources
+F:\5th Semester\Visual Programming\Labs\Lab_05\PictureViewerWithTimer\obj\Debug\PictureViewerWithTimer.csproj.GenerateResource.cache
+F:\5th Semester\Visual Programming\Labs\Lab_05\PictureViewerWithTimer\obj\Debug\PictureViewerWithTimer.exe
+F:\5th Semester\Visual Programming\Labs\Lab_05\PictureViewerWithTimer\obj\Debug\PictureViewerWithTimer.pdb
+F:\5th Semester\Visual Programming\Labs\Lab_05\PictureViewerWithTimer\obj\Debug\PictureViewerWithTimer.Properties.Resources.resources
+F:\5th Semester\Visual Programming\Labs\Lab_05\PictureViewerWithTimer\obj\Debug\PictureViewerWithTimer.csproj.CoreCompileInputs.cache
+F:\5th Semester\Visual Programming\Labs\Lab_05\PictureViewerWithTimer\bin\Debug\PictureViewerWithTimer.exe.config
+F:\5th Semester\Visual Programming\Labs\Lab_05\PictureViewerWithTimer\bin\Debug\PictureViewerWithTimer.exe
+F:\5th Semester\Visual Programming\Labs\Lab_05\PictureViewerWithTimer\bin\Debug\PictureViewerWithTimer.pdb
