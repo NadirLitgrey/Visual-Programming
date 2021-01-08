@@ -1,0 +1,10 @@
+F:\5th Semester\Visual Programming\Labs\Lab7\Student_Databse_App\Student_Databse_App\bin\Debug\Student_Databse_App.exe.config
+F:\5th Semester\Visual Programming\Labs\Lab7\Student_Databse_App\Student_Databse_App\bin\Debug\Student_Databse_App.exe
+F:\5th Semester\Visual Programming\Labs\Lab7\Student_Databse_App\Student_Databse_App\bin\Debug\Student_Databse_App.pdb
+F:\5th Semester\Visual Programming\Labs\Lab7\Student_Databse_App\Student_Databse_App\obj\Debug\Student_Databse_App.csprojAssemblyReference.cache
+F:\5th Semester\Visual Programming\Labs\Lab7\Student_Databse_App\Student_Databse_App\obj\Debug\Student_Databse_App.Form1.resources
+F:\5th Semester\Visual Programming\Labs\Lab7\Student_Databse_App\Student_Databse_App\obj\Debug\Student_Databse_App.Properties.Resources.resources
+F:\5th Semester\Visual Programming\Labs\Lab7\Student_Databse_App\Student_Databse_App\obj\Debug\Student_Databse_App.csproj.GenerateResource.cache
+F:\5th Semester\Visual Programming\Labs\Lab7\Student_Databse_App\Student_Databse_App\obj\Debug\Student_Databse_App.csproj.CoreCompileInputs.cache
+F:\5th Semester\Visual Programming\Labs\Lab7\Student_Databse_App\Student_Databse_App\obj\Debug\Student_Databse_App.exe
+F:\5th Semester\Visual Programming\Labs\Lab7\Student_Databse_App\Student_Databse_App\obj\Debug\Student_Databse_App.pdb
