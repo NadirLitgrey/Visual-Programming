@@ -1,0 +1,20 @@
+E:\Semester5\Mail\Mail\bin\Debug\Mail.exe.config
+E:\Semester5\Mail\Mail\bin\Debug\Mail.exe
+E:\Semester5\Mail\Mail\bin\Debug\Mail.pdb
+E:\Semester5\Mail\Mail\obj\Debug\Mail.csprojAssemblyReference.cache
+E:\Semester5\Mail\Mail\obj\Debug\Mail.Form1.resources
+E:\Semester5\Mail\Mail\obj\Debug\Mail.Properties.Resources.resources
+E:\Semester5\Mail\Mail\obj\Debug\Mail.csproj.GenerateResource.cache
+E:\Semester5\Mail\Mail\obj\Debug\Mail.csproj.CoreCompileInputs.cache
+E:\Semester5\Mail\Mail\obj\Debug\Mail.exe
+E:\Semester5\Mail\Mail\obj\Debug\Mail.pdb
+F:\5th Semester\Visual Programming\Projects\Mail\Mail\bin\Debug\Mail.exe.config
+F:\5th Semester\Visual Programming\Projects\Mail\Mail\bin\Debug\Mail.exe
+F:\5th Semester\Visual Programming\Projects\Mail\Mail\bin\Debug\Mail.pdb
+F:\5th Semester\Visual Programming\Projects\Mail\Mail\obj\Debug\Mail.csprojAssemblyReference.cache
+F:\5th Semester\Visual Programming\Projects\Mail\Mail\obj\Debug\Mail.Form1.resources
+F:\5th Semester\Visual Programming\Projects\Mail\Mail\obj\Debug\Mail.Properties.Resources.resources
+F:\5th Semester\Visual Programming\Projects\Mail\Mail\obj\Debug\Mail.csproj.GenerateResource.cache
+F:\5th Semester\Visual Programming\Projects\Mail\Mail\obj\Debug\Mail.csproj.CoreCompileInputs.cache
+F:\5th Semester\Visual Programming\Projects\Mail\Mail\obj\Debug\Mail.exe
+F:\5th Semester\Visual Programming\Projects\Mail\Mail\obj\Debug\Mail.pdb
