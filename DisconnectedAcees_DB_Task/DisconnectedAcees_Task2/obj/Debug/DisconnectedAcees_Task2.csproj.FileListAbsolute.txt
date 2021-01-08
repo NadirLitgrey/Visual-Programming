@@ -1,0 +1,9 @@
+F:\5th Semester\Visual Programming\Labs\Lab08\DisconnectedAcees_Task2\DisconnectedAcees_Task2\bin\Debug\DisconnectedAcees_Task2.exe.config
+F:\5th Semester\Visual Programming\Labs\Lab08\DisconnectedAcees_Task2\DisconnectedAcees_Task2\bin\Debug\DisconnectedAcees_Task2.exe
+F:\5th Semester\Visual Programming\Labs\Lab08\DisconnectedAcees_Task2\DisconnectedAcees_Task2\bin\Debug\DisconnectedAcees_Task2.pdb
+F:\5th Semester\Visual Programming\Labs\Lab08\DisconnectedAcees_Task2\DisconnectedAcees_Task2\obj\Debug\DisconnectedAcees_Task2.Form1.resources
+F:\5th Semester\Visual Programming\Labs\Lab08\DisconnectedAcees_Task2\DisconnectedAcees_Task2\obj\Debug\DisconnectedAcees_Task2.Properties.Resources.resources
+F:\5th Semester\Visual Programming\Labs\Lab08\DisconnectedAcees_Task2\DisconnectedAcees_Task2\obj\Debug\DisconnectedAcees_Task2.csproj.GenerateResource.cache
+F:\5th Semester\Visual Programming\Labs\Lab08\DisconnectedAcees_Task2\DisconnectedAcees_Task2\obj\Debug\DisconnectedAcees_Task2.csproj.CoreCompileInputs.cache
+F:\5th Semester\Visual Programming\Labs\Lab08\DisconnectedAcees_Task2\DisconnectedAcees_Task2\obj\Debug\DisconnectedAcees_Task2.exe
+F:\5th Semester\Visual Programming\Labs\Lab08\DisconnectedAcees_Task2\DisconnectedAcees_Task2\obj\Debug\DisconnectedAcees_Task2.pdb
