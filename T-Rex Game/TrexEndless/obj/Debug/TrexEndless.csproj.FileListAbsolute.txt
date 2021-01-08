@@ -1,0 +1,20 @@
+C:\Users\Student\Desktop\Lab_05\TrexEndless\bin\Debug\TrexEndless.exe.config
+C:\Users\Student\Desktop\Lab_05\TrexEndless\bin\Debug\TrexEndless.exe
+C:\Users\Student\Desktop\Lab_05\TrexEndless\bin\Debug\TrexEndless.pdb
+C:\Users\Student\Desktop\Lab_05\TrexEndless\obj\Debug\TrexEndless.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Lab_05\TrexEndless\obj\Debug\TrexEndless.Form1.resources
+C:\Users\Student\Desktop\Lab_05\TrexEndless\obj\Debug\TrexEndless.Properties.Resources.resources
+C:\Users\Student\Desktop\Lab_05\TrexEndless\obj\Debug\TrexEndless.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Lab_05\TrexEndless\obj\Debug\TrexEndless.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Lab_05\TrexEndless\obj\Debug\TrexEndless.exe
+C:\Users\Student\Desktop\Lab_05\TrexEndless\obj\Debug\TrexEndless.pdb
+F:\5th Semester\Visual Programming\Labs\Lab_05\TrexEndless\bin\Debug\TrexEndless.exe.config
+F:\5th Semester\Visual Programming\Labs\Lab_05\TrexEndless\bin\Debug\TrexEndless.exe
+F:\5th Semester\Visual Programming\Labs\Lab_05\TrexEndless\bin\Debug\TrexEndless.pdb
+F:\5th Semester\Visual Programming\Labs\Lab_05\TrexEndless\obj\Debug\TrexEndless.csprojAssemblyReference.cache
+F:\5th Semester\Visual Programming\Labs\Lab_05\TrexEndless\obj\Debug\TrexEndless.Form1.resources
+F:\5th Semester\Visual Programming\Labs\Lab_05\TrexEndless\obj\Debug\TrexEndless.Properties.Resources.resources
+F:\5th Semester\Visual Programming\Labs\Lab_05\TrexEndless\obj\Debug\TrexEndless.csproj.GenerateResource.cache
+F:\5th Semester\Visual Programming\Labs\Lab_05\TrexEndless\obj\Debug\TrexEndless.csproj.CoreCompileInputs.cache
+F:\5th Semester\Visual Programming\Labs\Lab_05\TrexEndless\obj\Debug\TrexEndless.exe
+F:\5th Semester\Visual Programming\Labs\Lab_05\TrexEndless\obj\Debug\TrexEndless.pdb
