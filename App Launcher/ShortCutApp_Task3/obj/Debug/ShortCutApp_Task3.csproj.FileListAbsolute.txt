@@ -1,0 +1,10 @@
+F:\5th Semester\Visual Programming\Labs\Lab08\ShortCutApp_Task3\ShortCutApp_Task3\bin\Debug\ShortCutApp_Task3.exe.config
+F:\5th Semester\Visual Programming\Labs\Lab08\ShortCutApp_Task3\ShortCutApp_Task3\bin\Debug\ShortCutApp_Task3.exe
+F:\5th Semester\Visual Programming\Labs\Lab08\ShortCutApp_Task3\ShortCutApp_Task3\bin\Debug\ShortCutApp_Task3.pdb
+F:\5th Semester\Visual Programming\Labs\Lab08\ShortCutApp_Task3\ShortCutApp_Task3\obj\Debug\ShortCutApp_Task3.Form1.resources
+F:\5th Semester\Visual Programming\Labs\Lab08\ShortCutApp_Task3\ShortCutApp_Task3\obj\Debug\ShortCutApp_Task3.Properties.Resources.resources
+F:\5th Semester\Visual Programming\Labs\Lab08\ShortCutApp_Task3\ShortCutApp_Task3\obj\Debug\ShortCutApp_Task3.csproj.GenerateResource.cache
+F:\5th Semester\Visual Programming\Labs\Lab08\ShortCutApp_Task3\ShortCutApp_Task3\obj\Debug\ShortCutApp_Task3.csproj.CoreCompileInputs.cache
+F:\5th Semester\Visual Programming\Labs\Lab08\ShortCutApp_Task3\ShortCutApp_Task3\obj\Debug\ShortCutApp_Task3.exe
+F:\5th Semester\Visual Programming\Labs\Lab08\ShortCutApp_Task3\ShortCutApp_Task3\obj\Debug\ShortCutApp_Task3.pdb
+F:\5th Semester\Visual Programming\Labs\Lab08\ShortCutApp_Task3\ShortCutApp_Task3\obj\Debug\ShortCutApp_Task3.csprojAssemblyReference.cache
