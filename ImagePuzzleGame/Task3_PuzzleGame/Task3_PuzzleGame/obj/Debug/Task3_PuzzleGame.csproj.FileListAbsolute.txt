@@ -1,0 +1,10 @@
+F:\5th Semester\Visual Programming\Labs\Lab_04\Task3_PuzzleGame\Task3_PuzzleGame\bin\Debug\Task3_PuzzleGame.exe.config
+F:\5th Semester\Visual Programming\Labs\Lab_04\Task3_PuzzleGame\Task3_PuzzleGame\bin\Debug\Task3_PuzzleGame.exe
+F:\5th Semester\Visual Programming\Labs\Lab_04\Task3_PuzzleGame\Task3_PuzzleGame\bin\Debug\Task3_PuzzleGame.pdb
+F:\5th Semester\Visual Programming\Labs\Lab_04\Task3_PuzzleGame\Task3_PuzzleGame\obj\Debug\Task3_PuzzleGame.csprojAssemblyReference.cache
+F:\5th Semester\Visual Programming\Labs\Lab_04\Task3_PuzzleGame\Task3_PuzzleGame\obj\Debug\Task3_PuzzleGame.FormPuzzle.resources
+F:\5th Semester\Visual Programming\Labs\Lab_04\Task3_PuzzleGame\Task3_PuzzleGame\obj\Debug\Task3_PuzzleGame.Properties.Resources.resources
+F:\5th Semester\Visual Programming\Labs\Lab_04\Task3_PuzzleGame\Task3_PuzzleGame\obj\Debug\Task3_PuzzleGame.csproj.GenerateResource.cache
+F:\5th Semester\Visual Programming\Labs\Lab_04\Task3_PuzzleGame\Task3_PuzzleGame\obj\Debug\Task3_PuzzleGame.csproj.CoreCompileInputs.cache
+F:\5th Semester\Visual Programming\Labs\Lab_04\Task3_PuzzleGame\Task3_PuzzleGame\obj\Debug\Task3_PuzzleGame.exe
+F:\5th Semester\Visual Programming\Labs\Lab_04\Task3_PuzzleGame\Task3_PuzzleGame\obj\Debug\Task3_PuzzleGame.pdb
