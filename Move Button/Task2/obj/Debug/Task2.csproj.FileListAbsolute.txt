@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\Lab03\Task1\Task2\bin\Debug\Task2.exe.config
+C:\Users\Student\Desktop\Lab03\Task1\Task2\bin\Debug\Task2.exe
+C:\Users\Student\Desktop\Lab03\Task1\Task2\bin\Debug\Task2.pdb
+C:\Users\Student\Desktop\Lab03\Task1\Task2\obj\Debug\Task2.Form1.resources
+C:\Users\Student\Desktop\Lab03\Task1\Task2\obj\Debug\Task2.Properties.Resources.resources
+C:\Users\Student\Desktop\Lab03\Task1\Task2\obj\Debug\Task2.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Lab03\Task1\Task2\obj\Debug\Task2.exe
+C:\Users\Student\Desktop\Lab03\Task1\Task2\obj\Debug\Task2.pdb
+C:\Users\Student\Desktop\Lab03\Task1\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
