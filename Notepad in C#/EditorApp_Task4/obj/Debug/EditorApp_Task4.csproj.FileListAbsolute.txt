@@ -1,0 +1,10 @@
+F:\5th Semester\Visual Programming\Labs\Lab08\EditorApp_Task4\EditorApp_Task4\bin\Debug\EditorApp_Task4.exe.config
+F:\5th Semester\Visual Programming\Labs\Lab08\EditorApp_Task4\EditorApp_Task4\bin\Debug\EditorApp_Task4.exe
+F:\5th Semester\Visual Programming\Labs\Lab08\EditorApp_Task4\EditorApp_Task4\bin\Debug\EditorApp_Task4.pdb
+F:\5th Semester\Visual Programming\Labs\Lab08\EditorApp_Task4\EditorApp_Task4\obj\Debug\EditorApp_Task4.csprojAssemblyReference.cache
+F:\5th Semester\Visual Programming\Labs\Lab08\EditorApp_Task4\EditorApp_Task4\obj\Debug\EditorApp_Task4.Form1.resources
+F:\5th Semester\Visual Programming\Labs\Lab08\EditorApp_Task4\EditorApp_Task4\obj\Debug\EditorApp_Task4.Properties.Resources.resources
+F:\5th Semester\Visual Programming\Labs\Lab08\EditorApp_Task4\EditorApp_Task4\obj\Debug\EditorApp_Task4.csproj.GenerateResource.cache
+F:\5th Semester\Visual Programming\Labs\Lab08\EditorApp_Task4\EditorApp_Task4\obj\Debug\EditorApp_Task4.csproj.CoreCompileInputs.cache
+F:\5th Semester\Visual Programming\Labs\Lab08\EditorApp_Task4\EditorApp_Task4\obj\Debug\EditorApp_Task4.exe
+F:\5th Semester\Visual Programming\Labs\Lab08\EditorApp_Task4\EditorApp_Task4\obj\Debug\EditorApp_Task4.pdb
