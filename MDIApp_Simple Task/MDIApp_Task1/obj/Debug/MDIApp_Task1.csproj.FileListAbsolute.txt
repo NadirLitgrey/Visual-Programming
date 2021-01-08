@@ -1,0 +1,12 @@
+F:\5th Semester\Visual Programming\Labs\Lab08\MDIApp_Task1\MDIApp_Task1\obj\Debug\MDIApp_Task1.csprojAssemblyReference.cache
+F:\5th Semester\Visual Programming\Labs\Lab08\MDIApp_Task1\MDIApp_Task1\obj\Debug\MDIApp_Task1.Form1.resources
+F:\5th Semester\Visual Programming\Labs\Lab08\MDIApp_Task1\MDIApp_Task1\obj\Debug\MDIApp_Task1.Form2.resources
+F:\5th Semester\Visual Programming\Labs\Lab08\MDIApp_Task1\MDIApp_Task1\obj\Debug\MDIApp_Task1.Form3.resources
+F:\5th Semester\Visual Programming\Labs\Lab08\MDIApp_Task1\MDIApp_Task1\obj\Debug\MDIApp_Task1.Properties.Resources.resources
+F:\5th Semester\Visual Programming\Labs\Lab08\MDIApp_Task1\MDIApp_Task1\obj\Debug\MDIApp_Task1.csproj.GenerateResource.cache
+F:\5th Semester\Visual Programming\Labs\Lab08\MDIApp_Task1\MDIApp_Task1\obj\Debug\MDIApp_Task1.csproj.CoreCompileInputs.cache
+F:\5th Semester\Visual Programming\Labs\Lab08\MDIApp_Task1\MDIApp_Task1\bin\Debug\MDIApp_Task1.exe.config
+F:\5th Semester\Visual Programming\Labs\Lab08\MDIApp_Task1\MDIApp_Task1\bin\Debug\MDIApp_Task1.exe
+F:\5th Semester\Visual Programming\Labs\Lab08\MDIApp_Task1\MDIApp_Task1\bin\Debug\MDIApp_Task1.pdb
+F:\5th Semester\Visual Programming\Labs\Lab08\MDIApp_Task1\MDIApp_Task1\obj\Debug\MDIApp_Task1.exe
+F:\5th Semester\Visual Programming\Labs\Lab08\MDIApp_Task1\MDIApp_Task1\obj\Debug\MDIApp_Task1.pdb
